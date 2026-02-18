@@ -1,16 +1,61 @@
-## Hi there 👋
+#  Siddiq Ladaf
 
-<!--
-**siddiq2005/siddiq2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **3rd Year Computer Science Engineering Student** at Presidency University
+💻 Passionate Software Developer | AI Enthusiast
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🔭 Currently working on **Java Development & Artificial Intelligence**
+* 🌱 Continuously improving my **Data Structures & Algorithms**
+* 💡 Interested in **Backend Development, AI, and Problem Solving**
+* 🎯 Goal: To become a skilled **Software Engineer & AI Developer**
+* ⚡ Fun fact: I love turning logic into real-world applications
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+* Java
+* Python
+* JavaScript
+* SQL
+
+### 🌐 Web Development
+
+* HTML
+* CSS
+* JavaScript
+
+### 🧠 Core Concepts
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Problem Solving
+
+---
+
+## 🚀 Current Focus
+
+* 🔥 Advanced Java
+* 🤖 Artificial Intelligence & Machine Learning
+* 📊 LeetCode & DSA Practice
+* 🌐 Full Stack Development
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Student Management System (Java)**
+🔹 **Library Management System (Java)**
+🔹 **AI-Based Projects (Python)**
+🔹 **Web Development Projects**
+
+> 🚧 More exciting projects coming soon...
+
+---
